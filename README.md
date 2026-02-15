@@ -100,12 +100,5 @@ Allan Kamau
 
 🔗 GitHub: https://github.com/Allankw-dev
 
-If you want next level 🔥 I can:
-
-Turn this into a LinkedIn-ready description
-
-Create a GitHub Profile README (very powerful one)
-
-Help you structure your portfolio like a job-ready developer**
 
 
