@@ -6,7 +6,7 @@ I have completed multiple advanced-level courses focused on writing scalable, ef
 
 🎓 Certifications Earned
 🏆 Advanced Python Programming
-
+    python 3 programming
 Object-Oriented Programming (OOP)
 
 Decorators & Generators
